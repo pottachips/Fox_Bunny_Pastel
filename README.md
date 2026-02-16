@@ -1,25 +1,30 @@
-# AO3 Skin Guide
-
-## Features
-- User-friendly interface for an enhanced reading experience.
-- Customizable color themes to suit your aesthetic.
-- Optimized for various devices including tablets and smartphones.
+# Fox Bunny Pastel AO3 Skin
 
 ## Installation Instructions
-1. Download the AO3 skin files from the repository.
-2. Navigate to your AO3 settings page.
-3. Upload the skin using the 'Customize' option in the settings menu.
+1. Download the Fox Bunny Pastel AO3 skin files.
+2. Log in to your AO3 account.
+3. Navigate to "Manage Works".
+4. Click on "Edit" for the work you want to customize.
+5. Go to the "Styles" section.
+6. Upload the CSS file provided in the skin folder.
+7. Save your changes and refresh your AO3 page to see the new skin.
 
 ## Color Palette
-- Background: #F7F7F7
-- Primary Text: #333333
-- Link Color: #0056b3
-- Highlight Color: #ffeb3b
+- **Background Color:** #F5E6D3  
+- **Text Color:** #8B5B29  
+- **Accent Color:** #D5C5A6  
 
-## Customization Tips
-- You can easily edit the CSS files to tweak styles according to your preference.
-- For advanced users, consider using multiple skins and switching between them based on your mood.
+## Customization Guide
+- To customize the skin, you can edit the CSS file:
+  - Change the `background-color` for a different background.
+  - Modify `color` properties for text color changes.
+  - Add or remove styles as needed.
 
-## Usage Information
-- After installation, refresh the AO3 page to see the changes.
-- Enjoy a personalized and visually appealing way to read your favorite stories!
+## Troubleshooting
+- **Skin not displaying:** Ensure the CSS file is properly uploaded and cleared your browser cache.
+- **Color mismatch:** Check the color codes in the CSS file for any errors.
+
+## Features
+- Stylish and unique design for a vibrant aesthetic.
+- Easy to customize with readily understandable CSS.
+- Compatible with all modern browsers.
