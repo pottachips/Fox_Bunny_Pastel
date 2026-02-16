@@ -15,8 +15,6 @@ npm install
 This project utilizes CSS for styling. Below is the full CSS code used in this project for easy reference:
 
 ```css
-/* Full CSS Code */
-body {
 #header h1 sup,
 #header .button,
 #header .landmark,
