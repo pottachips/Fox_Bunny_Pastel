@@ -1,30 +1,48 @@
-# Fox Bunny Pastel AO3 Skin
+# Fox Bunny Pastel
 
 ## Installation Instructions
-1. Download the Fox Bunny Pastel AO3 skin files.
-2. Log in to your AO3 account.
-3. Navigate to "Manage Works".
-4. Click on "Edit" for the work you want to customize.
-5. Go to the "Styles" section.
-6. Upload the CSS file provided in the skin folder.
-7. Save your changes and refresh your AO3 page to see the new skin.
 
-## Color Palette
-- **Background Color:** #F5E6D3  
-- **Text Color:** #8B5B29  
-- **Accent Color:** #D5C5A6  
+To use this project, clone the repository and install the necessary dependencies:
 
-## Customization Guide
-- To customize the skin, you can edit the CSS file:
-  - Change the `background-color` for a different background.
-  - Modify `color` properties for text color changes.
-  - Add or remove styles as needed.
+```bash
+git clone https://github.com/pottachips/Fox_Bunny_Pastel.git
+cd Fox_Bunny_Pastel
+npm install
+```
 
-## Troubleshooting
-- **Skin not displaying:** Ensure the CSS file is properly uploaded and cleared your browser cache.
-- **Color mismatch:** Check the color codes in the CSS file for any errors.
+## Documentation
 
-## Features
-- Stylish and unique design for a vibrant aesthetic.
-- Easy to customize with readily understandable CSS.
-- Compatible with all modern browsers.
+This project utilizes CSS for styling. Below is the full CSS code used in this project for easy reference:
+
+```css
+/* Full CSS Code */
+body {
+    background-color: #f0e4d7;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #ff6b6b;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.button {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #ff4c4c;
+}
+```
+
+Feel free to copy and use the CSS code above for your own projects!
